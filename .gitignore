@@ -25,4 +25,4 @@ forza_matches-*.tar
 # Temporary files, for example, from tests.
 /tmp/
 
-*.iml
+forza_matches.iml
