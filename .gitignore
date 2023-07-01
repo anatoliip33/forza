@@ -25,7 +25,6 @@ forza_matches-*.tar
 # Temporary files, for example, from tests.
 /tmp/
 
-.idea
-
 *.iml
-/.idea/
+.idea
+mix.lock
