@@ -27,5 +27,5 @@ forza_matches-*.tar
 
 .idea
 
-forza_matches.iml
+*.iml
 /.idea/
