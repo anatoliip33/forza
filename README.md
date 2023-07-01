@@ -1,6 +1,6 @@
 # ForzaMatches
 
-**Test task to www.forzafootball.com/about-us**
+**Test task for www.forzafootball.com/about-us**
 
 ## Installation
 
